@@ -22,12 +22,28 @@ Welcome to Hacktoberfest 2021! Begin your Open Source Journey as a contributor b
 
    - Copy
 
-     `<td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>`
+     ```
+     <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>
+     ```
 
      and paste it in a newline by making a newline just after the arrow shown in the below image.
      ![image](https://user-images.githubusercontent.com/73401649/137842908-29d8fc43-f7ea-472e-a4ee-a99657b520a6.png)
 
-   - Change the href link with your GitHub account link, img src link with your avatar link and `Akshat Tripathi` with your actual name.
+     and then change the href link with your GitHub account link, img src link with your avatar link and `Akshat Tripathi` with your actual name. To get avatar link follow these steps:
+
+     - Login to your Github account and click on the profile icon which appears at the left most side of the page.
+
+     ![image](https://user-images.githubusercontent.com/73401649/137885303-30d95d30-6750-492c-a046-29575355cecf.png)
+
+     - Then click on the big avatar which appears at the left side of the screen.
+
+     ![image](https://user-images.githubusercontent.com/73401649/137886799-fe9094ce-be12-4637-bbb3-ae97bae1a5f1.png)
+
+     - Then right click on the avatar which appears at the left side of the page and select **Copy Image Address** option.
+
+     ![image](https://user-images.githubusercontent.com/73401649/137887230-b597692a-6323-4107-a47a-8a7e056f1511.png)
+
+     **Cool !** you have copied the avatar link now you have to just paste it in place of img src link.
 
 6. After doing all these, save the file and close the editor.
 
