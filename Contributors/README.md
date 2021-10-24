@@ -6,6 +6,8 @@
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/adityasrivastava29"><img src="https://avatars.githubusercontent.com/u/59208761?s=40&u=c1bde5bd3495cd9818657f77c0f42c0d4bff8e65&v=4" width="100px;" alt=""/><br /><sub><b>Aditya Kumar</b></sub></a><br /></td>
+
 <td align="center"><a href="https://github.com/akhilarb4603"><img src="https://avatars.githubusercontent.com/u/92542491?v=4?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akhila Balagopalan</b></sub></a><br /></td>
 
     <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>
