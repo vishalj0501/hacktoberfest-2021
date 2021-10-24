@@ -22,5 +22,6 @@
     <td align="center"><a href="https://github.com/DarkHunter1749"><img src="https://avatars.githubusercontent.com/u/83648898?v=4" width="100px;" alt=""/><br /><sub><b>Manoj Sadanala</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sej28"><img src="https://avatars.githubusercontent.com/u/86724161?v=4" width="100px;" alt=""/><br /><sub><b>Sejal Koshta</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/SilentCruzer"><img src="https://avatars.githubusercontent.com/u/73246484?v=4" width="100px;" alt=""/><br /><sub><b>Adithya Kumar</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Yusakha"><img src="https://avatars.githubusercontent.com/u/62527088?v=4" width="100px;" alt=""/><br /><sub><b>Yoga Firdaus Pratikha</b></sub></a><br /></td>
   </tr>
 </table>
