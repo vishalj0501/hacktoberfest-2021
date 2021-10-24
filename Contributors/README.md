@@ -1,13 +1,12 @@
 # Contributors
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/91279824?s=400&u=976db90bcd3c4695e7cd5eee03eb9fbafca521eb&v=4" alt="hacktoberfest" width="100%"/></a></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73401649/138586795-f8d6a156-05d1-431c-984e-956f416e31b1.gif" alt="hacktoberfest" width="100%"/></a></p>
 
 <br/>
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/akhilarb4603"><img src="https://avatars.githubusercontent.com/u/92542491?v=4?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akhila Balagopalan</b></sub></a><br /></td>
-
+    <td align="center"><a href="https://github.com/akhilarb4603"><img src="https://avatars.githubusercontent.com/u/92542491?v=4?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akhila Balagopalan</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yasharora102"><img src="https://avatars.githubusercontent.com/u/29159814?s=400&u=1a820f137f3f0fd9cde056a2145da63f94cbb513&v=4" width="100px;" alt=""/><br /><sub><b>Yash Arora</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>
