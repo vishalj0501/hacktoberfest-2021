@@ -8,6 +8,7 @@
   <tr>
     <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>
     <td align="center"><a href="https://bolisettysujith.rocks"><img src="https://avatars.githubusercontent.com/u/73323807?s=400&u=e38ff58c3c6ecaeddaa14544987dbfa73f80e471&v=4" width="100px;" alt=""/><br /><sub><b>Bolisetty Sujith</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Gk119"><img src="https://avatars.githubusercontent.com/u/48323819?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Gautham Krishnan</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/DarkHunter1749"><img src="https://avatars.githubusercontent.com/u/83648898?v=4" width="100px;" alt=""/><br /><sub><b>Manoj Sadanala</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sej28"><img src="https://avatars.githubusercontent.com/u/86724161?v=4" width="100px;" alt=""/><br /><sub><b>Sejal Koshta</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/SilentCruzer"><img src="https://avatars.githubusercontent.com/u/73246484?v=4" width="100px;" alt=""/><br /><sub><b>Adithya Kumar</b></sub></a><br /></td>
