@@ -10,5 +10,6 @@
     <td align="center"><a href="https://bolisettysujith.rocks"><img src="https://avatars.githubusercontent.com/u/73323807?s=400&u=e38ff58c3c6ecaeddaa14544987dbfa73f80e471&v=4" width="100px;" alt=""/><br /><sub><b>Bolisetty Sujith</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sej28"><img src="https://avatars.githubusercontent.com/u/86724161?v=4" width="100px;" alt=""/><br /><sub><b>Sejal Koshta</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/SilentCruzer"><img src="https://avatars.githubusercontent.com/u/73246484?v=4" width="100px;" alt=""/><br /><sub><b>Adithya Kumar</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/gaurav26-coder"><img src="https://avatars.githubusercontent.com/u/66861704?s=40&v=4" width="100px;" alt=""/><br /><sub><b>Gaurav Prasad</b></sub></a><br /></td>
   </tr>
 </table>
