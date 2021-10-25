@@ -27,6 +27,7 @@
     <td align="center"><a href="https://github.com/DarkHunter1749"><img src="https://avatars.githubusercontent.com/u/83648898?v=4" width="100px;" alt=""/><br /><sub><b>Manoj Sadanala</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sej28"><img src="https://avatars.githubusercontent.com/u/86724161?v=4" width="100px;" alt=""/><br /><sub><b>Sejal Koshta</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/SilentCruzer"><img src="https://avatars.githubusercontent.com/u/73246484?v=4" width="100px;" alt=""/><br /><sub><b>Adithya Kumar</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hitaarthh"><img src="https://avatars.githubusercontent.com/u/91147942?v=4" width="100px;" alt=""/><br /><sub><b>Hitarth Anand Rohra</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/gaurav26-coder"><img src="https://avatars.githubusercontent.com/u/66861704?s=40&v=4" width="100px;" alt=""/><br /><sub><b>Gaurav Prasad</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Navaneeth000"><img src="https://avatars.githubusercontent.com/u/92202936?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Navaneeth.M.Suresh</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Yusakha"><img src="https://avatars.githubusercontent.com/u/62527088?v=4" width="100px;" alt=""/><br /><sub><b>Yoga Firdaus Pratikha</b></sub></a><br /></td>
