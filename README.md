@@ -22,7 +22,7 @@ Welcome to Hacktoberfest 2021! Begin your Open Source Journey as a contributor b
 
    - Copy
 
-     ```
+     ```Python
      <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /></td>
      ```
 
